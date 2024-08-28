@@ -1,0 +1,6 @@
+*.wasm
+subtractor/interfaces
+divider/interfaces
+multiplier/interfaces
+node_modules
+*.pyc

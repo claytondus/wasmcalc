@@ -1,0 +1,4 @@
+package example:component;
+world example {
+    export divide: func(x: f32, y: f32) -> f32;
+}
